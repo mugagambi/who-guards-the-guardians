@@ -81,5 +81,9 @@
             "allow-contrib": false,
             "require": "8.0.*"
         }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^13.0",
+        "symfony/phpunit-bridge": "^8.0"
     }
 }
